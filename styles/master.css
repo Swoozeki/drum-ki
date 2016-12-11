@@ -62,5 +62,5 @@ body{
 }
 #keys .key.pressed{
   transform: scale(1.1);
-  box-shadow: 0 0 5px yellow;
+  box-shadow: 0 0 6px yellow;
 }
